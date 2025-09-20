@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/loukas mastorekas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loukas mastorekas" height="30" width="40" /></a>
-<a href="https://fb.com/λουκάς μαστορέκας" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="λουκάς μαστορέκας" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/loukas-mastorekas-b1a7a926a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loukas mastorekas" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100043720009838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="λουκάς μαστορέκας" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
